@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@angular-devkit/build-angular": "^19.2.19",
+    "@angular-devkit/build-angular": "^21.2.5",
     "webpack-dev-server": "^5.2.2"
   }
 }
